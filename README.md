@@ -12,7 +12,7 @@
     ║                                                                       ║
     ║            Depth-Guided Geometry Completion Network (DGCN)            ║
     ║       Indoor Furniture Reconstruction · Consumer GPU · Real-time      ║
-    ╚═══════════════════════════════════════════════════════════════════════
+    ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 
